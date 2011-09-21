@@ -25,6 +25,10 @@ Joseph Wilk
 Slides from my talk at #frozenrails about Limited Red. Includes ogres and santa claus... Obviously.
 http://www.slideshare.net/josephwilk/frozenrails2011
 
+@pipopolam
+Maxim Filatov
+#FrozenRails 2011 #photos day 1 part 1: http://t.co/abc0qWpm
+
 
 
 
