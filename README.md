@@ -29,7 +29,8 @@ http://www.slideshare.net/josephwilk/frozenrails2011
 Maxim Filatov
 #FrozenRails 2011 #photos day 1 part 1: http://t.co/abc0qWpm
 
-
+@j3 Jeff Casimir 
+My notes on measuring performance of Ruby/Rails apps, inc Perftools.rb on its own and as a Rack middleware /cc @tmm1 gist.github.com/1232030
 
 
 
