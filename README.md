@@ -20,6 +20,11 @@
 * Aman Gupta([@tmm1](https://twitter.com/#!/tmm1)): [Debugging Ruby Performance](http://speakerdeck.com/u/tmm1/p/debugging-ruby-performance)
 * Tuomas Kareinen: [Test global state changing code with fork](https://gist.github.com/1232111)
 
+# Notes
+
+* Debugging Ruby Performance
+  * Jeff Casimir(@j3)[https://twitter.com/#!/j3]: [Note](https://gist.github.com/1232030)
+
 # Photos
 
 * Maxim Filatov [@pipopolam](https://twitter.com/#!/pipopolam): [Part1](http://t.co/abc0qWpm) and [Part2](http://bit.ly/rrCLdz)
