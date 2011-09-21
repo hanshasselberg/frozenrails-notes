@@ -1,6 +1,8 @@
-# Slides
+# Frozenrails 2011
 
-## 20.09
+## Slides
+
+### 20.09
 
 * Geoffrey Grosenbach([@topfunky](https://twitter.com/#!/topfunky)): Keynote: Code & Creativity
 * Jeff Casimir([@j3](https://twitter.com/#!/j3)): [The Problem is your Ruby](https://gist.github.com/1214611)
@@ -10,7 +12,7 @@
 * Josh Kaldermis([@joshkalderimis](https://twitter.com/#!/joshkalderimis)) and Sven Fuchs([@svenfuchs](https://twitter.com/#!/svenfuchs)): Travis CI
 * Jarkko Laine([@jarkko](https://twitter.com/#!/jarkko)): Full Frontal for the Backend Pack
 
-## 21.09.
+### 21.09.
 
 * Richard White([@rrwhite](https://twitter.com/#!/rrwhite)): Keynote: about UserVoice
 * Zach Holman([@holman](https://twitter.com/#!/holman)): [How Github uses Github to build Github](http://zachholman.com/talk/how-github-uses-github-to-build-github)
@@ -20,11 +22,11 @@
 * Aman Gupta([@tmm1](https://twitter.com/#!/tmm1)): [Debugging Ruby Performance](http://speakerdeck.com/u/tmm1/p/debugging-ruby-performance)
 * Tuomas Kareinen([@tkareine](https://twitter.com/#!/tkareine)): [Test global state changing code with fork](https://gist.github.com/1232111)
 
-# Notes
+## Notes
 
 * Debugging Ruby Performance
   * Jeff Casimir([@j3](https://twitter.com/#!/j3)): [Note](https://gist.github.com/1232030)
 
-# Photos
+## Photos
 
 * Maxim Filatov ([@pipopolam](https://twitter.com/#!/pipopolam)): [Part1](http://t.co/abc0qWpm) and [Part2](http://bit.ly/rrCLdz)
