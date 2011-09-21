@@ -2,7 +2,7 @@
 
 ## 20.09
 
-* Geoffrey Grosenbach([@topfunky](https://twitter.com/#!/topfunky)): [Keynote]()
+* Geoffrey Grosenbach([@topfunky](https://twitter.com/#!/topfunky)): Keynote: Code & Creativity
 * Jeff Casimir([@j3](https://twitter.com/#!/j3)): [The Problem is your Ruby](https://gist.github.com/1214611)
 * Joseph Wilk([@josephwilk](https://twitter.com/#!/josephwilk)): [Limited Red](http://www.slideshare.net/mobile/josephwilk/frozenrails2011)
 * Nick Sieger([@nicksieger](https://twitter.com/#!/nicksieger)): From Java to Rails
@@ -12,7 +12,7 @@
 
 ## 21.09.
 
-* Richard White([@rrwhite](https://twitter.com/#!/rrwhite)): Keynote
+* Richard White([@rrwhite](https://twitter.com/#!/rrwhite)): Keynote: about UserVoice
 * Zach Holman([@holman](https://twitter.com/#!/holman)): [How Github uses Github to build Github](http://zachholman.com/talk/how-github-uses-github-to-build-github)
 * Elise Huard([@elise\_huard](https://twitter.com/#!/elise_huard)): Ruby goes Hollywood
 * Ryan Smith([@ryandotsmith](https://twitter.com/#!/ryandotsmith)): [Modern Architecture](http://dl.dropbox.com/u/1579953/talks/modern_architecture.pdf)
