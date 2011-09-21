@@ -23,7 +23,7 @@
 # Notes
 
 * Debugging Ruby Performance
-  * Jeff Casimir(@j3)[https://twitter.com/#!/j3]: [Note](https://gist.github.com/1232030)
+  * Jeff Casimir([@j3](https://twitter.com/#!/j3)): [Note](https://gist.github.com/1232030)
 
 # Photos
 
