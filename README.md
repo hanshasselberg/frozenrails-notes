@@ -8,7 +8,7 @@
 * Jeff Casimir([@j3](https://twitter.com/#!/j3)): [The Problem is your Ruby](https://gist.github.com/1214611)
 * Joseph Wilk([@josephwilk](https://twitter.com/#!/josephwilk)): [Limited Red](http://www.slideshare.net/mobile/josephwilk/frozenrails2011)
 * Nick Sieger([@nicksieger](https://twitter.com/#!/nicksieger)): From Java to Rails
-* Jeff Casimir([@j3](https://twitter.com/#!/j3)): Blow up your views
+* Jeff Casimir([@j3](https://twitter.com/#!/j3)): [Blow up your views](http://jumpstartlab.com/files/presentations/blow_up_your_views_lsrc.pdf)
 * Josh Kaldermis([@joshkalderimis](https://twitter.com/#!/joshkalderimis)) and Sven Fuchs([@svenfuchs](https://twitter.com/#!/svenfuchs)): Travis CI
 * Jarkko Laine([@jarkko](https://twitter.com/#!/jarkko)): Full Frontal for the Backend Pack
 
