@@ -22,4 +22,4 @@
 
 # Photos
 
-* Maxim Filatov [@pipopolam](https://twitter.com/#!/pipopolam): [Part1](http://t.co/abc0qWpm) and [Part2](bit.ly/rrCLdz)
+* Maxim Filatov [@pipopolam](https://twitter.com/#!/pipopolam): [Part1](http://t.co/abc0qWpm) and [Part2](http://bit.ly/rrCLdz)
